@@ -1,2 +1,14 @@
 # Simpformers
-A simple transformers implementation with numpy.
+A simple transformers implementation with NumPy.
+
+This project provides a basic implementation of a Transformer model using NumPy. The goal is to help you understand the inner workings of the Transformer architecture by building it from scratch.
+
+## Prerequisites
+
+Before running the code, ensure you have the following installed:
+
+- **Python 3.x**: This code is written in Python 3, so you'll need to have Python 3.x installed on your machine. You can download it from the [official Python website](https://www.python.org/downloads/).
+- **NumPy**: NumPy is required for numerical computations. You can install it using pip:
+
+```bash
+pip install numpy
