@@ -12,3 +12,14 @@ Before running the code, ensure you have the following installed:
 
 ```bash
 pip install numpy
+```
+### Setting Up the Environment
+
+1. Clone the Repository
+   ```bash
+   git clone https://github.com/LuisCarlosOrobio/Simpformers.git
+   cd Simpformers
+
+2. Run it!
+   ```bash
+   python simpformers.py
