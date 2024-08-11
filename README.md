@@ -1,7 +1,7 @@
 # Simpformers
 A simple transformers implementation with NumPy.
 
-This project provides a basic implementation of a Transformer model using NumPy. The goal is to help you understand the inner workings of the Transformer architecture by building it from scratch.
+This repo provides an basic implementation of a Transformer model using NumPy. The goal is to help you understand the inner workings of the Transformer architecture by building it from scratch.
 
 ## Prerequisites
 
