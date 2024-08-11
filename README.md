@@ -7,7 +7,7 @@ This repo provides an basic implementation of a Transformer model using NumPy. T
 
 Ensure you have the following installed:
 
-- **Python 3.x**: This code is written in Python 3, so you'll need to have Python 3.x installed on your machine. You can download it from the [official Python website](https://www.python.org/downloads/).
+- **Python 3.x**: This code is written in Python 3, so you'll need to have Python 3.x installed. You can download it from the [official Python website](https://www.python.org/downloads/).
 - **NumPy**: NumPy is required for numerical computations. You can install it using pip:
 
 ```bash
